@@ -121,7 +121,8 @@ This confirms that tasks created in the frontend are successfully persisted to t
 
 ## 9. MongoDB Atlas — Database Users
 
-![MongoDB Database Users](Screenshot_2026-04-27_044423.png)
+![MongoDB Database Users]<img width="1364" height="613" alt="Screenshot 2026-04-27 044423" src="https://github.com/user-attachments/assets/18ed057e-791f-4c15-9b44-963568dcfb4a" />
+
 
 A dedicated **database user** named `uwizeyedocile_db_user` has been created for the application. It uses **SCRAM** authentication and has the **atlasAdmin** role on all resources. This user is what the Spring Boot backend uses in its connection string to authenticate with the Atlas cluster.
 

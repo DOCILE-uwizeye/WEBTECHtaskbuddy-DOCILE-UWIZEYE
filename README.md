@@ -82,7 +82,8 @@ The Spring Boot backend exposes a **Swagger UI** (via SpringDoc OpenAPI 3.0) at 
 
 ## 7. MongoDB Atlas — IP Access List
 
-![MongoDB IP Access List](Screenshot_2026-04-27_044111.png)
+![MongoDB IP Access List]<img width="1353" height="619" alt="Screenshot 2026-04-27 044111" src="https://github.com/user-attachments/assets/094500bf-d74f-46f8-b4cd-15e9092fa09a" />
+
 
 The MongoDB Atlas cluster is secured via an **IP Access List**. Two entries are configured:
 

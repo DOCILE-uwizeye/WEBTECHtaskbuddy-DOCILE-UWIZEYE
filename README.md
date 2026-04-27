@@ -17,8 +17,8 @@ The Login page is the entry point of the application. It presents a clean card-s
 
 ## 2. Registration Page
 
-![Registration Page](<img width="366" height="500" alt="Screenshot 2026-04-27 035958" src="https://github.com/user-attachments/assets/7730cf44-32b0-422c-b55a-76d6ab4b8e44" />
-)
+![Registration Page]<img width="366" height="500" alt="Screenshot 2026-04-27 035958" src="https://github.com/user-attachments/assets/a29ba823-7071-4e54-b095-e5400d697291" />
+
 
 The Register page mirrors the login layout but swaps the action button to **Register**. A secondary outlined button labeled *"Have an account? Login"* lets existing users navigate back. This page handles new user account creation, sending credentials to the backend for storage.
 

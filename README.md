@@ -130,7 +130,8 @@ A dedicated **database user** named `uwizeyedocile_db_user` has been created for
 
 ## 10. MongoDB Atlas — Data Explorer (Tasks Collection) *(repeated view)*
 
-![MongoDB Data Explorer 2](Screenshot_2026-04-27_044646.png)
+![MongoDB Data Explorer 2]<img width="1285" height="684" alt="Screenshot 2026-04-27 044646" src="https://github.com/user-attachments/assets/9d36ff70-f389-4329-a01b-e0f675d6a3df" />
+
 
 A second view of the Data Explorer, confirming the same `tasks` collection data and the `taskbuddy` database structure under `Cluster0`.
 

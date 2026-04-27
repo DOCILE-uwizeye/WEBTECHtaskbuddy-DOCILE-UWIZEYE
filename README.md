@@ -139,11 +139,7 @@ A repeated confirmation of the database user setup showing `uwizeyedocile_db_use
 
 
 
-The VS Code environment shows the **project structure** on the left with a Vue.js frontend (`src/components/TaskCard.vue`, `TaskForm.vue`, `TaskList.vue`, `App.vue`, `main.js`) and a Spring Boot `demo` backend. The terminal shows:
-
-```
-mvn spring-boot:run
-```
+The VS Code environment shows the **project structure** on the left with a Vue.js frontend (`src/components/TaskCard.vue`, `TaskForm.vue`, `TaskList.vue`, `App.vue`, `main.js`) and a Spring Boot `demo` backend. 
 
 The backend starts successfully on **port 9090**, with logs confirming:
 - Connection to MongoDB Atlas (`ac-hut0kih-shard-00-01`).

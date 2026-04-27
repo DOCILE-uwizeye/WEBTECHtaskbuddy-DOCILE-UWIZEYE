@@ -148,7 +148,8 @@ A repeated confirmation of the database user setup showing `uwizeyedocile_db_use
 
 ## 12. VS Code — Backend Running (Spring Boot)
 
-![VS Code Backend](Screenshot_2026-04-27_045349.png)
+![VS Code Backend]<img width="401" height="557" alt="Screenshot 2026-04-27 045349" src="https://github.com/user-attachments/assets/01435151-238f-48e4-a6c0-e5d121c364fb" />
+
 
 The VS Code environment shows the **project structure** on the left with a Vue.js frontend (`src/components/TaskCard.vue`, `TaskForm.vue`, `TaskList.vue`, `App.vue`, `main.js`) and a Spring Boot `demo` backend. The terminal shows:
 
@@ -163,16 +164,5 @@ The backend starts successfully on **port 9090**, with logs confirming:
 
 ---
 
-## Technology Stack Summary
 
-| Layer | Technology |
-|-------|-----------|
-| Frontend | Vue.js + Vite + Tailwind CSS |
-| Backend | Spring Boot (Java, port 9090) |
-| Database | MongoDB Atlas (Cloud) |
-| API Docs | SpringDoc OpenAPI 3.0 (Swagger UI) |
-| IDE | VS Code |
 
----
-
-*Project by Uwizeye Docile — 2026*

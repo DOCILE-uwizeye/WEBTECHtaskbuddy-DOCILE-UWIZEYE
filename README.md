@@ -26,7 +26,8 @@ The Register page mirrors the login layout but swaps the action button to **Regi
 
 ## 3. Dashboard — Task Management
 
-![Dashboard](Screenshot_2026-04-27_042259.png)
+![Dashboard]<img width="1127" height="536" alt="Screenshot 2026-04-27 042259" src="https://github.com/user-attachments/assets/4a30bb67-a64c-460e-bdc2-a46980515da6" />
+
 
 After logging in, the user lands on the **Dashboard**. It contains:
 

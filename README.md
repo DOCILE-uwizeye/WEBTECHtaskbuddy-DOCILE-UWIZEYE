@@ -40,7 +40,8 @@ After logging in, the user lands on the **Dashboard**. It contains:
 
 ## 4. Profile Page
 
-![Profile Page](Screenshot_2026-04-27_042647.png)
+![Profile Page]<img width="561" height="652" alt="Screenshot 2026-04-27 042647" src="https://github.com/user-attachments/assets/5aeede4a-cfce-406d-8241-481fff21a8aa" />
+
 
 The **Profile page** lets users view and edit their personal information. It shows:
 

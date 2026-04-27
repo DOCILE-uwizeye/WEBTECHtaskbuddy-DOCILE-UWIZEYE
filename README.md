@@ -101,20 +101,6 @@ The MongoDB Atlas cluster is secured via an **IP Access List**. Two entries are 
 
 The **Data Explorer** in MongoDB Atlas shows the `taskbuddy` database with a `tasks` collection containing **2 documents**. The first document visible has the following structure:
 
-```json
-{
-  "_id": ObjectId("69eb85a4feb69f020fcbcbf5"),
-  "title": "work",
-  "description": "school work",
-  "category": "School",
-  "dueDate": "2026-04-24",
-  "ownerId": "1",
-  "priority": "MEDIUM",
-  "status": "IN_PROGRESS",
-  "_class": "com.taskbuddy.model.Task"
-}
-```
-
 This confirms that tasks created in the frontend are successfully persisted to the cloud database.
 
 ---

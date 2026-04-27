@@ -65,7 +65,8 @@ A custom **404 error page** is implemented to handle unknown or invalid routes. 
 
 ## 6. OpenAPI / Swagger Documentation
 
-![Swagger UI](Screenshot_2026-04-27_043042.png)
+![Swagger UI]<img width="1366" height="650" alt="Screenshot 2026-04-27 043042" src="https://github.com/user-attachments/assets/33439bdb-d2af-49ad-a3c3-ccae8d773ad6" />
+
 
 The Spring Boot backend exposes a **Swagger UI** (via SpringDoc OpenAPI 3.0) at `/v3/api-docs`, running on `http://localhost:9090`. The documented **Tasks API** includes the following endpoints:
 

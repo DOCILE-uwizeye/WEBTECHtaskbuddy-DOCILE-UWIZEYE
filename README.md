@@ -56,7 +56,8 @@ Navigation buttons at the top allow returning to the **Dashboard** or logging ou
 
 ## 5. 404 — Page Not Found
 
-![404 Page](Screenshot_2026-04-27_042858.png)
+![404 Page]<img width="495" height="331" alt="Screenshot 2026-04-27 042858" src="https://github.com/user-attachments/assets/4f837e8e-e3fb-4cc5-a6dd-5bd6a1e9a944" />
+
 
 A custom **404 error page** is implemented to handle unknown or invalid routes. It displays a large `404` heading, a *"Page not found"* message, and a **Go to Dashboard** button so users can easily recover and navigate back to the main page.
 

@@ -139,7 +139,8 @@ A second view of the Data Explorer, confirming the same `tasks` collection data 
 
 ## 11. MongoDB Atlas — Database Users *(repeated view)*
 
-![MongoDB Database Users 2](Screenshot_2026-04-27_044849.png)
+![MongoDB Database Users 2]<img width="1181" height="679" alt="Screenshot 2026-04-27 044849" src="https://github.com/user-attachments/assets/9947c5ff-d2aa-4068-9fb8-6a974aba9135" />
+
 
 A repeated confirmation of the database user setup showing `uwizeyedocile_db_user` with `atlasAdmin@admin` role and access to all resources.
 

@@ -6,8 +6,10 @@
 ---
 
 ## 1. Login Page
-![Login Page](<img width="446" height="520" alt="Screenshot 2026-04-27 035830" src="https://github.com/user-attachments/assets/421805f8-6c2f-48f0-9354-966841e0a47a" />
-)
+## Login Page
+
+![Login Page]<img width="446" height="520" alt="Screenshot 2026-04-27 035830" src="https://github.com/user-attachments/assets/062c8403-263d-49f0-87d9-9e7230a3b806" />
+
 
 The Login page is the entry point of the application. It presents a clean card-style form with two fields: **Username** and **Password**, and a prominent **Login** button. A link at the bottom reads *"Need an account? Register"*, allowing new users to navigate to the registration page. The design uses the app's navy-blue branding and is centered on a light gray background.
 

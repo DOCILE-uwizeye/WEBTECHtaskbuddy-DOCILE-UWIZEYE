@@ -96,7 +96,8 @@ The project belongs to **Uwizeye's Org - 2026** under **Project 0**.
 
 ## 8. MongoDB Atlas — Data Explorer (Tasks Collection)
 
-![MongoDB Data Explorer](Screenshot_2026-04-27_044258.png)
+![MongoDB Data Explorer]<img width="1298" height="600" alt="Screenshot 2026-04-27 044258" src="https://github.com/user-attachments/assets/b7311787-e98a-494f-968a-9a8ea02ef2de" />
+
 
 The **Data Explorer** in MongoDB Atlas shows the `taskbuddy` database with a `tasks` collection containing **2 documents**. The first document visible has the following structure:
 

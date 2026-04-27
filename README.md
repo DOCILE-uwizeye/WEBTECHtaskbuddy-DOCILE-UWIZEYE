@@ -90,7 +90,7 @@ The MongoDB Atlas cluster is secured via an **IP Access List**. Two entries are 
 - `41.186.136.61/32` — Added during the Auto Setup process (Active).
 - `0.0.0.0/0` — "Allow all" rule, enabling connections from any IP address (Active).
 
-The project belongs to **Uwizeye's Org - 2026** under **Project 0**.
+
 
 ---
 
@@ -148,7 +148,8 @@ A repeated confirmation of the database user setup showing `uwizeyedocile_db_use
 
 ## 12. VS Code — Backend Running (Spring Boot)
 
-![VS Code Backend]<img width="401" height="557" alt="Screenshot 2026-04-27 045349" src="https://github.com/user-attachments/assets/01435151-238f-48e4-a6c0-e5d121c364fb" />
+![VS Code Backend]<img width="1285" height="684" alt="Screenshot 2026-04-27 044646" src="https://github.com/user-attachments/assets/1dce2069-c089-4cfd-ba7d-d139ae6a64a8" />
+
 
 
 The VS Code environment shows the **project structure** on the left with a Vue.js frontend (`src/components/TaskCard.vue`, `TaskForm.vue`, `TaskList.vue`, `App.vue`, `main.js`) and a Spring Boot `demo` backend. The terminal shows:
